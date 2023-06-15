@@ -10,53 +10,53 @@ const Cards = () => {
         <div className="grid grid-cols-4 gap-4 p-4 m-4">
             <div className="card rounded-xl">
                 <Image src="/SM1.jpg" width={2160} height={200} alt="Sunset in the mountains" />
-                <h3>Restaurant Name</h3>
-                <h4>Biryani, Kebab</h4>
-                <h4>$50 for two</h4>
+                <h3>Clubhouse</h3>
+                {/* <h4>Biryani, Kebab</h4>
+                <h4>$50 for two</h4> */}
             </div>
             <div className="card rounded-xl">
                 <Image src="/SM1.jpg" width={2160} height={200} alt="Sunset in the mountains" />
-                <h3>Restaurant Name</h3>
-                <h4>Biryani, Kebab</h4>
-                <h4>$50 for two</h4>
+                <h3>GYM</h3>
+                {/* <h4>Biryani, Kebab</h4>
+                <h4>$50 for two</h4> */}
             </div>
             <div className="card rounded-xl">
                 <Image src="/SM1.jpg" width={2160} height={200} alt="Sunset in the mountains" />
-                <h3>Restaurant Name</h3>
-                <h4>Biryani, Kebab</h4>
-                <h4>$50 for two</h4>
+                <h3>SuperMarket</h3>
+                {/* <h4>Biryani, Kebab</h4>
+                <h4>$50 for two</h4> */}
             </div>
             <div className="card rounded-xl">
                 <Image src="/SM1.jpg" width={2160} height={200} alt="Sunset in the mountains" />
-                <h3>Restaurant Name</h3>
-                <h4>Biryani, Kebab</h4>
-                <h4>$50 for two</h4>
+                <h3>Party Hall</h3>
+                {/* <h4>Biryani, Kebab</h4>
+                <h4>$50 for two</h4> */}
             </div>
             <div className="card rounded-xl">
                 <Image src="/SM1.jpg" width={2160} height={200} alt="Sunset in the mountains" />
-                <h3>Restaurant Name</h3>
-                <h4>Biryani, Kebab</h4>
-                <h4>$50 for two</h4>
+                <h3>Skating Rink</h3>
+                {/* <h4>Biryani, Kebab</h4>
+                <h4>$50 for two</h4> */}
             </div>
             <div className="card rounded-xl">
                 <Image src="/SM1.jpg" width={2160} height={200} alt="Sunset in the mountains" />
-                <h3>Restaurant Name</h3>
-                <h4>Biryani, Kebab</h4>
-                <h4>$50 for two</h4>
+                <h3>Pet Park</h3>
+                {/* <h4>Biryani, Kebab</h4>
+                <h4>$50 for two</h4> */}
             </div>
             <div className="card rounded-xl">
                 <Image src="/SM1.jpg" width={2160} height={200} alt="Sunset in the mountains" />
-                <div className="p-4 m-5">
-                    <h3>Restaurant Name</h3>
-                    <h4>Biryani, Kebab</h4>
-                    <h4>$50 for two</h4>
-                </div>
+                
+                    <h3>Meditation Centre</h3>
+                    {/* <h4>Biryani, Kebab</h4>
+                    <h4>$50 for two</h4> */}
+            
             </div>
             <div className="card rounded-xl">
                 <Image src="/SM1.jpg" width={2160} height={200} alt="Sunset in the mountains" />
-                <h3>Restaurant Name</h3>
-                <h4>Biryani, Kebab</h4>
-                <h4>$50 for two</h4>
+                <h3>Tennis Court</h3>
+                {/* <h4>Biryani, Kebab</h4>
+                <h4>$50 for two</h4> */}
             </div>
 
 
