@@ -28,7 +28,7 @@ function Page() {
   }, []);
 
   return (
-    <div className="app bg-pink-100">
+    <div className="app bg-grey-100">
       <Navbar
         isTopOfPage={isTopOfPage}
         selectedPage={selectedPage}
