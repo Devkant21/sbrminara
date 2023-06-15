@@ -15,9 +15,9 @@ const Navbar = () => {
                         />
                     </li>
                 </ul>
-                <li className='cursor-pointer'>Home</li>
-                <li className='cursor-pointer'>Service</li>
-                <li className='cursor-pointer'>Contact</li>
+                <li className='cursor-pointer bg-violet-500 hover:bg-violet-600 active:bg-violet-700 focus:outline-none focus:ring focus:ring-violet-300 ...'>Home</li>
+                <li className='cursor-pointer bg-violet-500 hover:bg-violet-600 active:bg-violet-700 focus:outline-none focus:ring focus:ring-violet-300 ...'>Service</li>
+                <li className='cursor-pointer bg-violet-500 hover:bg-violet-600 active:bg-violet-700 focus:outline-none focus:ring focus:ring-violet-300 ...'>Contact</li>
             </ul>
         </div>
     )
