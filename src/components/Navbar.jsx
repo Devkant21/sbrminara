@@ -3,7 +3,7 @@ import Image from "next/image";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
 // import Logo from "@/assets/Logo.png";
 // import BC from "@/assets/brigade-calista.png";
-import Link from "./components/Link";
+import Link from "@/components/Link";
 import { SelectedPage } from "@/utils/types";
 import useMediaQuery from "@/hooks/useMediaQuery";
 import ActionButton from "@/shared/ActionButton";
