@@ -62,10 +62,16 @@ const Projects = () => {
                         <LineGradient width="w-2/3" />
                     </div>
                 </div>
-                <p className="mt-10 mb-10 text-2xl">
-                    Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-                    fames odio in at. At magna ornare dictum lectus. Purus massa morbi
-                    purus nec eget eleifend ut elit.
+                <p className="mt-10 mb-10 text-3xl">
+                    Key Highlights
+
+                    <ul className="text-2xl p-4">
+                        <li>5 mins drive from Kadugodi Metro Station</li>
+                        <li>Main Road Property</li>
+                        <li>Miven Technique Construction</li>
+                        <li>1 Min from Bus stand</li>
+                        <li>World class amenities</li>
+                    </ul>
                 </p>
             </motion.div>
 
@@ -82,17 +88,17 @@ const Projects = () => {
                     <div className="grid grid-cols-3 lg:gap-3 justify-items-center">
                         <div className="py-10">
                             <div className="rounded overflow-hidden shadow-lg">
-                                <a href="https://conkriti-architects.pages.dev/" target="_blank" rel="noreferrer">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <Image
                                         src="/SM1.jpeg"
                                         width={300}
                                         height={200}
-                                        alt="conkriti"
+                                        alt=""
                                         className="w-full"
                                     />
                                     <div className="px-6 py-4">
                                         <div className="font-bold text-xl mb-2">
-                                            Conkriti Architects
+                                            GYM
                                         </div>
                                         {/* <p>Conkriti website</p> */}
                                     </div>
@@ -109,17 +115,17 @@ const Projects = () => {
                     <div className="grid grid-cols-3 lg:gap-3 justify-items-center">
                         <div className="py-10">
                             <div className="rounded overflow-hidden shadow-lg">
-                                <a href="https://newgene.vercel.app/" target="_blank" rel="noreferrer">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <Image
                                         src="/SM1.jpeg"
                                         width={300}
                                         height={200}
-                                        alt="conkriti"
+                                        alt=""
                                         className="w-full"
                                     />
                                     <div className="px-6 py-4">
                                         <div className="font-bold text-xl mb-2">
-                                            Newgene
+                                            Meditation Center
                                         </div>
                                         {/* <p>Conkriti website</p> */}
                                     </div>
@@ -135,44 +141,17 @@ const Projects = () => {
                     <div className="grid grid-cols-3 lg:gap-3 justify-items-center">
                         <div className="py-10">
                             <div className="rounded overflow-hidden shadow-lg">
-                                <a href="https://conkriti-architects.pages.dev/" target="_blank" rel="noreferrer">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <Image
                                         src="/SM1.jpeg"
                                         width={300}
                                         height={200}
-                                        alt="conkriti"
+                                        alt=""
                                         className="w-full"
                                     />
                                     <div className="px-6 py-4">
                                         <div className="font-bold text-xl mb-2">
-                                            Conkriti Architects
-                                        </div>
-                                        {/* <p>Conkriti website</p> */}
-                                    </div>
-                                    <div className="grid grid-flow-col gap-5 pb-2 px-6">
-                                        <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">react</span>
-                                        <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">typescript</span>
-                                        <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">tailwindcss</span>
-                                        <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">framer-motion</span>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="grid grid-cols-3 lg:gap-3 justify-items-center">
-                        <div className="py-10">
-                            <div className="rounded overflow-hidden shadow-lg">
-                                <a href="https://conkriti-architects.pages.dev/" target="_blank" rel="noreferrer">
-                                    <Image
-                                        src="/SM1.jpeg"
-                                        width={300}
-                                        height={200}
-                                        alt="conkriti"
-                                        className="w-full"
-                                    />
-                                    <div className="px-6 py-4">
-                                        <div className="font-bold text-xl mb-2">
-                                            Conkriti Architects
+                                            Pet Park
                                         </div>
                                         {/* <p>Conkriti website</p> */}
                                     </div>
@@ -189,17 +168,17 @@ const Projects = () => {
                     <div className="grid grid-cols-3 lg:gap-3 justify-items-center">
                         <div className="py-10">
                             <div className="rounded overflow-hidden shadow-lg">
-                                <a href="https://conkriti-architects.pages.dev/" target="_blank" rel="noreferrer">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <Image
                                         src="/SM1.jpeg"
                                         width={300}
                                         height={200}
-                                        alt="conkriti"
+                                        alt=""
                                         className="w-full"
                                     />
                                     <div className="px-6 py-4">
                                         <div className="font-bold text-xl mb-2">
-                                            Conkriti Architects
+                                            Clubhouse
                                         </div>
                                         {/* <p>Conkriti website</p> */}
                                     </div>
@@ -216,17 +195,44 @@ const Projects = () => {
                     <div className="grid grid-cols-3 lg:gap-3 justify-items-center">
                         <div className="py-10">
                             <div className="rounded overflow-hidden shadow-lg">
-                                <a href="https://conkriti-architects.pages.dev/" target="_blank" rel="noreferrer">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <Image
                                         src="/SM1.jpeg"
                                         width={300}
                                         height={200}
-                                        alt="conkriti"
+                                        alt=""
                                         className="w-full"
                                     />
                                     <div className="px-6 py-4">
                                         <div className="font-bold text-xl mb-2">
-                                            Conkriti Architects
+                                            Tennis Court
+                                        </div>
+                                        {/* <p>Conkriti website</p> */}
+                                    </div>
+                                    <div className="grid grid-flow-col gap-5 pb-2 px-6">
+                                        <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">react</span>
+                                        <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">typescript</span>
+                                        <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">tailwindcss</span>
+                                        <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">framer-motion</span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="grid grid-cols-3 lg:gap-3 justify-items-center">
+                        <div className="py-10">
+                            <div className="rounded overflow-hidden shadow-lg">
+                                <a href="/" target="_blank" rel="noreferrer">
+                                    <Image
+                                        src="/SM1.jpeg"
+                                        width={300}
+                                        height={200}
+                                        alt=""
+                                        className="w-full"
+                                    />
+                                    <div className="px-6 py-4">
+                                        <div className="font-bold text-xl mb-2">
+                                            Infinity Swimming Pool
                                         </div>
                                         {/* <p>Conkriti website</p> */}
                                     </div>
