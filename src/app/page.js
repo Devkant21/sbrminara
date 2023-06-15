@@ -3,6 +3,7 @@ import { useState, useEffect } from 'react'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import Hero from '@/components/Hero'
+import Cards from '@/components/Cards'
 
 function Page() {
 
@@ -75,6 +76,7 @@ function Page() {
         <div className="max-w-5xl w-11/12 mx-auto">
           <Navbar />
           <Hero />
+          <Cards />
           <Footer />
         </div>
       </div>
