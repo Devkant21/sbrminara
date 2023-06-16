@@ -23,7 +23,7 @@ const NewestDeals = () => {
                     <div className='relative h-[60%]'>
                         <img src={house1} alt="" className='w-full h-full object-cover rounded-t-xl' />
                         <div className='absolute top-0 right-0 p-4'>
-                            <BsSuitHeart size={"1.5rem"} className="text-white" />
+                            {/* <BsSuitHeart size={"1.5rem"} className="text-white" /> */}
                         </div>
                     </div>
                     <div className='p-4 space-y-4'>
@@ -53,7 +53,7 @@ const NewestDeals = () => {
                     <div className='relative h-[60%]'>
                         <img src={house2} alt="" className='w-full h-full object-cover rounded-t-xl' />
                         <div className='absolute top-0 right-0 p-4'>
-                            <BsSuitHeart size={"1.5rem"} className="text-white" />
+                            {/* <BsSuitHeart size={"1.5rem"} className="text-white" /> */}
                         </div>
                     </div>
                     <div className='p-4 space-y-4'>
@@ -83,7 +83,7 @@ const NewestDeals = () => {
                     <div className='relative h-[60%]'>
                         <img src={house3} alt="" className='w-full h-full object-cover rounded-t-xl' />
                         <div className='absolute top-0 right-0 p-4'>
-                            <BsSuitHeart size={"1.5rem"} className="text-white" />
+                            {/* <BsSuitHeart size={"1.5rem"} className="text-white" /> */}
                         </div>
                     </div>
                     <div className='p-4 space-y-4'>
@@ -114,7 +114,7 @@ const NewestDeals = () => {
                     <div className='relative h-[60%]'>
                         <img src={house4} alt="" className='w-full h-full object-cover rounded-t-xl' />
                         <div className='absolute top-0 right-0 p-4'>
-                            <BsSuitHeart size={"1.5rem"} className="text-white" />
+                            {/* <BsSuitHeart size={"1.5rem"} className="text-white" /> */}
                         </div>
                     </div>
                     <div className='p-4 space-y-4'>
@@ -144,7 +144,7 @@ const NewestDeals = () => {
                     <div className='relative h-[60%]'>
                         <img src={house5} alt="" className='w-full h-full object-cover rounded-t-xl' />
                         <div className='absolute top-0 right-0 p-4'>
-                            <BsSuitHeart size={"1.5rem"} className="text-white" />
+                            {/* <BsSuitHeart size={"1.5rem"} className="text-white" /> */}
                         </div>
                     </div>
                     <div className='p-4 space-y-4'>
@@ -174,7 +174,7 @@ const NewestDeals = () => {
                     <div className='relative h-[60%]'>
                         <img src={house6} alt="" className='w-full h-full object-cover rounded-t-xl' />
                         <div className='absolute top-0 right-0 p-4'>
-                            <BsSuitHeart size={"1.5rem"} className="text-white" />
+                            {/* <BsSuitHeart size={"1.5rem"} className="text-white" /> */}
                         </div>
                     </div>
                     <div className='p-4 space-y-4'>
@@ -204,7 +204,7 @@ const NewestDeals = () => {
                     <div className='relative h-[60%]'>
                         <img src={house7} alt="" className='w-full h-full object-cover rounded-t-xl' />
                         <div className='absolute top-0 right-0 p-4'>
-                            <BsSuitHeart size={"1.5rem"} className="text-white" />
+                            {/* <BsSuitHeart size={"1.5rem"} className="text-white" /> */}
                         </div>
                     </div>
                     <div className='p-4 space-y-4'>
@@ -234,7 +234,7 @@ const NewestDeals = () => {
                     <div className='relative h-[60%]'>
                         <img src={house8} alt="" className='w-full h-full object-cover rounded-t-xl' />
                         <div className='absolute top-0 right-0 p-4'>
-                            <BsSuitHeart size={"1.5rem"} className="text-white" />
+                            {/* <BsSuitHeart size={"1.5rem"} className="text-white" /> */}
                         </div>
                     </div>
                     <div className='p-4 space-y-4'>
