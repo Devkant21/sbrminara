@@ -102,12 +102,12 @@ const Projects = () => {
                                         </div>
                                         {/* <p>Conkriti website</p> */}
                                     </div>
-                                    <div className="grid grid-flow-col gap-5 pb-2 px-6">
+                                    {/* <div className="grid grid-flow-col gap-5 pb-2 px-6">
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">react</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">typescript</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">tailwindcss</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">framer-motion</span>
-                                    </div>
+                                    </div> */}
                                 </a>
                             </div>
                         </div>
@@ -129,11 +129,11 @@ const Projects = () => {
                                         </div>
                                         {/* <p>Conkriti website</p> */}
                                     </div>
-                                    <div className="grid grid-flow-col gap-5 pb-2 px-6">
+                                    {/* <div className="grid grid-flow-col gap-5 pb-2 px-6">
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">react</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">tailwindcss</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">framer-motion</span>
-                                    </div>
+                                    </div> */}
                                 </a>
                             </div>
                         </div>
@@ -155,12 +155,12 @@ const Projects = () => {
                                         </div>
                                         {/* <p>Conkriti website</p> */}
                                     </div>
-                                    <div className="grid grid-flow-col gap-5 pb-2 px-6">
+                                    {/* <div className="grid grid-flow-col gap-5 pb-2 px-6">
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">react</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">typescript</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">tailwindcss</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">framer-motion</span>
-                                    </div>
+                                    </div> */}
                                 </a>
                             </div>
                         </div>
@@ -182,12 +182,12 @@ const Projects = () => {
                                         </div>
                                         {/* <p>Conkriti website</p> */}
                                     </div>
-                                    <div className="grid grid-flow-col gap-5 pb-2 px-6">
+                                    {/* <div className="grid grid-flow-col gap-5 pb-2 px-6">
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">react</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">typescript</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">tailwindcss</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">framer-motion</span>
-                                    </div>
+                                    </div> */}
                                 </a>
                             </div>
                         </div>
@@ -209,12 +209,12 @@ const Projects = () => {
                                         </div>
                                         {/* <p>Conkriti website</p> */}
                                     </div>
-                                    <div className="grid grid-flow-col gap-5 pb-2 px-6">
+                                    {/* <div className="grid grid-flow-col gap-5 pb-2 px-6">
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">react</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">typescript</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">tailwindcss</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">framer-motion</span>
-                                    </div>
+                                    </div> */}
                                 </a>
                             </div>
                         </div>
@@ -236,12 +236,12 @@ const Projects = () => {
                                         </div>
                                         {/* <p>Conkriti website</p> */}
                                     </div>
-                                    <div className="grid grid-flow-col gap-5 pb-2 px-6">
+                                    {/* <div className="grid grid-flow-col gap-5 pb-2 px-6">
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">react</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">typescript</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">tailwindcss</span>
                                         <span className="bg-white rounded-full px-3 py-1 text-sm font-base mb-2 ">framer-motion</span>
-                                    </div>
+                                    </div> */}
                                 </a>
                             </div>
                         </div>
