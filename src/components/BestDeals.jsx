@@ -18,7 +18,7 @@ const BestDeals = () => {
                 <div className="deal relative col-span-2 row-span-2">
                     <img src={house1} alt="" className='rounded-xl w-full h-full object-cover' />
                     <div className='w-full absolute bottom-0 p-4 text-white bg-gradient-to-t from-black rounded-b-xl space-y-2'>
-                        <h1 className='text-3xl font-thin'>GYM</h1>
+                        <h1 className='text-3xl font-thin'>Gym</h1>
                         {/* <p className='flex items-center space-x-2 text-sm'><IoLocationOutline/>Kissimmee.Florida US</p> */}
                     </div>
                 </div>
