@@ -41,7 +41,7 @@ const NewestDeals = () => {
                                 <p className='text-sm text-gray-400'>2 Balcony</p>
                             </div>
                         </div>
-                        <h1 className='text-2xl font-semibold'>60 *L onwards</h1>
+                        <h1 className='text-2xl font-semibold'>60* L onwards</h1>
                         {/* <div className='flex items-center space-x-2'>
                 <IoLocationOutline/>
                 <p className='text-sm text-gray-600'>2Q76+VP7, Seegehalli, Krishnarajapura, Bengaluru, Karnataka 560067</p>
