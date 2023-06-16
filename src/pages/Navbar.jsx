@@ -7,8 +7,8 @@ const Link = ({ page, selectedPage, setSelectedPage }) => {
     const lowerCasePage = page.toLowerCase();
     return (
         <AnchorLink
-            className={`${selectedPage === lowerCasePage ? "text-yellow" : ""
-                } hover:text-yellow transition duration-500`}
+            className={`${selectedPage === lowerCasePage ? "text-stone-900" : ""
+                } hover:text-green-500 transition duration-500`}
             href={`#${lowerCasePage}`}
             onClick={() => setSelectedPage(lowerCasePage)}
         >
@@ -20,7 +20,7 @@ const Link = ({ page, selectedPage, setSelectedPage }) => {
 const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage }) => {
     const [isMenuToggled, setIsMenuToggled] = useState(false);
     const isDesktop = useMediaQuery("(min-width: 768px)");
-    const navbarBackground = isTopOfPage ? "" : "bg-sky-100";
+    const navbarBackground = isTopOfPage ? "bg-green-700" : "bg-sky-300";
 
     return (
         <nav className={`${navbarBackground} z-40 w-full fixed top-0 py-6`}>
@@ -47,6 +47,11 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage }) => {
                             setSelectedPage={setSelectedPage}
                         />
 
+                        <Link
+                            page="Projects"
+                            selectedPage={selectedPage}
+                            setSelectedPage={setSelectedPage}
+                        />
                         <Link
                             page="Contact"
                             selectedPage={selectedPage}
@@ -80,6 +85,11 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage }) => {
                         <div className="flex flex-col gap-10 ml-[33%] text-2xl text-blue-800">
                             <Link
                                 page="Home"
+                                selectedPage={selectedPage}
+                                setSelectedPage={setSelectedPage}
+                            />
+                            <Link
+                                page="Projects"
                                 selectedPage={selectedPage}
                                 setSelectedPage={setSelectedPage}
                             />
