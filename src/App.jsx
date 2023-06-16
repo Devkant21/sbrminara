@@ -12,8 +12,8 @@ export default function App() {
     <>
     <div className="App  w-11/12 md:w-4/5 m-auto">
       <Hero/>
-      <NewestDeals/>
       <AboutUs/>
+      <NewestDeals/>
       <BestDeals/>
     </div>
       <Footer/>
