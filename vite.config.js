@@ -4,9 +4,9 @@ import react from '@vitejs/plugin-react-swc'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  esbuild: {
-    jsxInject: `import React from 'react'`,
-  },
+  // esbuild: {
+  //   jsxInject: `import React from 'react'`,
+  // },
   server: {
     hmr: {
       overlay: false,
